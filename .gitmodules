@@ -1,0 +1,9 @@
+[submodule "perl6-functional-programming"]
+	path = perl6-functional-programming
+	url = https://github.com/soren/perl6-functional-programming
+[submodule "java8-functional-programming"]
+	path = java8-functional-programming
+	url = https://github.com/soren/java8-functional-programming
+[submodule "elisp-functional-programming"]
+	path = elisp-functional-programming
+	url = https://github.com/soren/elisp-functional-programming
